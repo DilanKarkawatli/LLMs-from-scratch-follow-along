@@ -34,7 +34,7 @@ not running any code yet. This first pass is meant to understand the bigger pict
 &nbsp;
 ### 2) Second read (with code)
 
-On the second read-through, I recommend typing up and running the code from the chapter. Copying code is tempting because retyping is a lot of work, but when I read other technical books, it usually helps me to think about the code a bit more (versus just glancing over it). 
+On the second read-through, ***I recommend typing up and running the code from the chapter. Copying code is tempting because retyping is a lot of work, but when I read other technical books, it usually helps me to think about the code a bit more (versus just glancing over it).*** 
 
 If I get different results than in the book, I would check the book's GitHub repo and try the code from there. If I still get different results, I would try to see if it's due to different package versions, random seeds, CPU/CUDA, etc. If I then still can't figure it out, asking the author would not be a bad idea (via the book forum, public GitHub repo issues or discussions, and as a last resort, email).
 
