@@ -82,6 +82,7 @@ ch05/13_olmo3/Olmo-3-7B-RLZero-IF
 ch05/13_olmo3/Olmo-3-32B-RLZero-IF
 
 ch06/01_main-chapter-code/gpt2
+ch06/01_main-chapter-code/text_classifier.pth
 ch06/02_bonus_additional-experiments/gpt2
 ch06/03_bonus_imdb-classification/gpt2
 
